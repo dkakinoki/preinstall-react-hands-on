@@ -1,6 +1,6 @@
 # react-hands-on
 ## 事前準備
-nodeのv4以上が動く状態にしておいてください。
+nodeの **v4以上** が動く状態にしておいてください。
 あと、[ReactのDeveloperTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)をインストールしておいてください
 
 ### node環境がない人向け
